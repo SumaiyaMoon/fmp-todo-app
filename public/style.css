@@ -1,0 +1,15 @@
+*{
+    margin: 0 !important;
+    padding: 0 !important;
+    box-sizing: border-box !important;
+    font-family: 'Roboto Condensed', sans-serif !important;
+}
+.border_gradient{
+   border: 2px rgb(255, 55, 89) solid;
+}
+.boxes{
+    border: 2px rgb(255, 55, 89) solid;   
+}
+h3>i{
+    color: rgb(255, 55, 89);
+}
